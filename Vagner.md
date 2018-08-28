@@ -15,4 +15,7 @@ https://catracalivre.com.br/criatividade/jukebox-social-app-para-escolher-as-mus
 
 
 ### artigos 
+
+https://www.researchgate.net/profile/Andreas_Komninos2/publication/221271007_AmbientDJ_Enabling_Interaction_between_People_and_Socially_Aware_Environments/links/551533790cf2d70ee26fbef9/AmbientDJ-Enabling-Interaction-between-People-and-Socially-Aware-Environments.pdf
+
 http://muep.mau.se/bitstream/handle/2043/15756/UppsatsKeishaBakosiJaffarSalih.pdf?sequence=2&isAllowed=y
