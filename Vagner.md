@@ -12,3 +12,7 @@ https://www.campograndenews.com.br/lado-b/diversao/cliente-escolhe-qual-musica-v
 
 
 https://catracalivre.com.br/criatividade/jukebox-social-app-para-escolher-as-musicas-que-tocam-nos-bares/
+
+
+###artigos 
+http://muep.mau.se/bitstream/handle/2043/15756/UppsatsKeishaBakosiJaffarSalih.pdf?sequence=2&isAllowed=y
