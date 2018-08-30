@@ -1,4 +1,4 @@
-**Matheus Lima da Silva** - 6° período
+**Matheus Lima da Silva** - 6° período.
 
 ### Introdução
 A automação industrial está, atualmente, ocupando um grande espaço no campo da tecnologia e da industrialização. O papel da mesma tem sido modificado e suas variações são nítidas. A história da automação nos mostra que sua evolução foi lenta e contínua. Mas apesar disso, suas melhorias são notáveis. Os componentes avançaram drasticamente, fator determinante para um melhor atendimento ao usuário atendido.
