@@ -1,8 +1,41 @@
 **Edgar Salardani Senhorello**  - 6º período
 
+- Título, autores e afiliações
+- Resumo (abstract)
+- Introdução
+- Resultados e Discussões
+- Conclusão e referências
+
+### Resumo
+
+(contextualização)
+(lacunas problemas questoes)
+(propósito)
+(metodologia)
+(resultados)
+(conclusão)
+
 ### Introdução
 
-A ideia de criar esse aplicativo para comunicação, entretenimento e conteúdo entre mamães e futuras mamães. A criação de salas de bate-papo com segmentos estruturados tem como objetivo sanar dúvidas entre as mamães, gerar conhecimento e interação. O sistema busca tornar a forma de comunicação com os clientes mais segura, rápida e interativa. 
+A ideia de criar esse aplicativo para comunicação, entretenimento e conteúdo entre mães e futuras mães.
+(o que tem sido feito ?)
+(o que não tem sido feito?)
+( o que este estudo é importante? - propósito)
+( o que é apresentado aqui)
+
+
+A criação de salas de bate-papo com segmentos estruturados tem como objetivo sanar dúvidas entre as mamães, gerar conhecimento e interação. O sistema busca tornar a forma de comunicação com os clientes mais segura, rápida e interativa. 
+
+### Metodologia
+
+
+### Resultados e discussões
+
+### Conclusão
+
+### Referências
+
+
 
 ### SOBRE A EMPRESA 
 
