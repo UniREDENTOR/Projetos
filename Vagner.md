@@ -21,3 +21,25 @@ https://guia.gazetadopovo.com.br/materias/bares-aplicativo-escolha-playlist-musi
 https://www.researchgate.net/profile/Andreas_Komninos2/publication/221271007_AmbientDJ_Enabling_Interaction_between_People_and_Socially_Aware_Environments/links/551533790cf2d70ee26fbef9/AmbientDJ-Enabling-Interaction-between-People-and-Socially-Aware-Environments.pdf
 
 http://muep.mau.se/bitstream/handle/2043/15756/UppsatsKeishaBakosiJaffarSalih.pdf?sequence=2&isAllowed=y
+
+
+### Pŕóximos passos:
+* Título, Autores e Afiliações
+* Resumo (Abstract)
+* Introdução
+* Metodologia	
+* Resultados e Discussões
+* Conclusão
+* Referências	
+
+#### Perguntas Chaves ####
+
+1. Por que está área é **importante?** 
+* (*Contexto*)
+2. O que tem **sido feito?**
+ * *(Estado da Arte)*
+3. O que **não** tem sido feito? 
+* (*Lacuna/Problema/Questão*)
+4. **Por que** este estudo é importante?
+* (*Propósito*)
+5. **O que é apresentado aqui**?
