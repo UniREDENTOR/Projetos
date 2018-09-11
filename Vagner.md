@@ -43,3 +43,13 @@ http://muep.mau.se/bitstream/handle/2043/15756/UppsatsKeishaBakosiJaffarSalih.pd
 4. **Por que** este estudo é importante?
 * (*Propósito*)
 5. **O que é apresentado aqui**?
+
+
+#### Artigo 1 ####
+A internet mudou a maneira que as pessoas consomem músicas, facilitando esse acesso, o tornando mais prático e mais barato. Entretanto o faturamento das empresas foi ampliado, e é uma atividade numa constante crescente, dessa forma mostrando que é relevante esforços nesse contexto social. 
+	Esse artigo aprensenta uma pesquisa realizada através de dois questionários, elaborados para um grupo heterogêneo de internaltas, a fim de estudar a relevancia do gênero musical no momento de escolha das músicas.
+	Os questionários eram acessados através de plataformas web e mostrandos de forma aleatória, a diferença entre eles era a opção do gênero musical que o primerio questionário não possuía.
+	Este estudo utilizou demonstrações de gráficos e tabelas e aprensentou em sua conclusão que a informação do gênero musical possui influência no momento de escolha de músicas desconhecidas fazendo com que a escolha aconteça em um menor tempo.
+  
+  [**Referência**](https://www.researchgate.net/profile/Irapuru_Florido/publication/257921973_Influencia_do_Genero_Musical_na_Aquisicao_de_Musicas_Digitais/links/00b495261a757abb6c000000/Influencia-do-Genero-Musical-na-Aquisicao-de-Musicas-Digitais.pdf)
+  
