@@ -31,9 +31,6 @@ Conclusão e referências
 
 ### Artigo 1 
 
-<<<<<<< HEAD
-=======
-
 
 
 **Arthur dos Santos Xavier** - 6º Período
