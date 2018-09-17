@@ -31,7 +31,7 @@ Conclusão e referências
 
 ### Artigo 1 
 
-Os jogos digitais vem se tornando uma ferramenta importante no contexto da aprendizagem e , deste modo, exigências com relação à novas metodologias adotadas pelos professores surgem dentro do ambiente educacional, segundo MELO (2011) 
+Os jogos digitais vem se tornando uma ferramenta importante no contexto da aprendizagem, portanto, exigências com relação à novas metodologias adotadas pelos professores surgem dentro do ambiente educacional, segundo MELO (2011) 
 
   ###### "Os jogos fazem parte do cotidiano das pessoas dentro e fora da escola, mas no que diz respeito à sala de aula, esse recurso ganha uma nova aplicação: o trabalho com jogos de forma didática." ######
 
