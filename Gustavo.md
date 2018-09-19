@@ -1,7 +1,7 @@
 # Projeto, Gustavo Souza
 
 Aplicação Web para Sistema de Gerenciamento de Artigos
-A ideia central do projeto é desenvolver um sistema WEB, para que facilite a administração e a pesquisa de artigos pelo usuário, criando uma interface intuitiva, para que seja fácil a utilização por qualquer tipo de usuário.
+A ideia central do projeto é desenvolver um sistema WEB, para que facilite a administração e a pesquisa de artigos pelo usuário, criando uma interface intuitiva, para facilitar a utilização por qualquer tipo de usuário.
  
 ### Título, autores e afiliações
 ### Resumo 
