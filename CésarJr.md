@@ -37,9 +37,8 @@ Uma observação importante é que, em uma primeira instância, será desenvolvi
 
 Todos estes são exemplos de projetos construídos com o uso do Arduíno, microcontrolador que, de tão pequeno, cabe na palma de sua mão. Foi idealizado como uma ferramenta para projetos de computação, tem sido adotado como a ferramenta preferida das comunidades de desenvolvedores e fabricantes interessados na construção e prototipagem de seus próprios projetos. 
 
-[**Referência**]</br>
-EVANS, Martin; NOBLE, Joshua; HOCHENBAUM, Jordan. Arduino em ação. 2013. Disponível em: <https://books.google.com.br/books?hl=pt-BR&lr=&id=tig0CgAAQBAJ&oi=fnd&pg=PA8&dq=sensores+arduino&ots=mRivfj5t2P&sig=EmPkJ0QxLW_g6qIvoM20i_-naQg#v=onepage&q&f=false>
-
+[**Referência**](https://books.google.com.br/books?hl=pt-BR&lr=&id=tig0CgAAQBAJ&oi=fnd&pg=PA8&dq=sensores+arduino&ots=mRivfj5t2P&sig=EmPkJ0QxLW_g6qIvoM20i_-naQg#v=onepage&q&f=false)</br>
+EVANS, Martin; NOBLE, Joshua; HOCHENBAUM, Jordan. Arduino em ação. 2013.
 
 ### Metodologia
 
