@@ -6,7 +6,7 @@ exata do problema evitando assim desperdícios de recursos.
 ### Objetivos
 O objetivo inicial do projeto é reestruturar a rede de uma determinada instituição de ensino.
 ### Considerações 
-Será necessário o uso de alguma ferramenta de monitoramento de rede. (Ferramenta ainda decidir)
+Será necessário o uso de alguma ferramenta de monitoramento de rede. (Ferramenta ainda a decidir)
 
 
 # Aps1 
