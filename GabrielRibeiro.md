@@ -22,7 +22,8 @@ Sistemas baseados em regras.
 Lógica Fuzzy.
 Assim concluindo que a IA para jogos trabalha em conjunto com IA acadêmica, ambas contribuindo uma com a outra com seus avanços.
 
-REFERÊNCIA: 
+## REFERÊNCIA: 
+
 http://www.ceavi.udesc.br/arquivos/id_submenu/387/glauco_david_laicht.pdf
 http://www.karenreis.com.br/pdf/andre_kishimoto.pdf
 http://www.programadoresdejogos.com/trab_academicos/carlos_galdino.pdf
