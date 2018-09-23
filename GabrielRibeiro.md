@@ -15,11 +15,12 @@ A inteligência artificial está muito presente na atualidade, tanto para fins p
 A Inteligência Artificial pode ser caracterizada de duas formas indiretas. Uma delas tendo como foco resolver problemas complexos e aproximar o conhecimento humano em maquinas. A segunda nomeada Game IA, possui relação direta com jogos eletrônicos, Kishimoto (2004).
 Com objetivo de demonstrar que ambas maneiras necessitam uma do avanço da outra, o artigo apresenta um estudo mais focado na segunda.
 No campo game IA foram estabelecidas algumas regras para que a experiência se tornasse mais divertida para o usuário, para Karlsoon (2005, apud Galdino, 2007) são: 
-Máquinas de Estado Finito.
-Path-Finding.
-Padrões de Movimentos.
-Sistemas baseados em regras.
-Lógica Fuzzy.
+<li>Máquinas de Estado Finito.
+<li>Path-Finding.
+<li>Padrões de Movimentos.
+<li>Sistemas baseados em regras.
+<li>Lógica Fuzzy.
+
 Assim concluindo que a IA para jogos trabalha em conjunto com IA acadêmica, ambas contribuindo uma com a outra com seus avanços.
 
 ## REFERÊNCIA: 
