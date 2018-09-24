@@ -16,3 +16,6 @@ A principal vantagem em usar o Zabbix para a tarefa de gerenciamento de redes é
 
 ### Referências
 Rodrigues De Morais Bezerra, R., Nunes, L. B., Carneiro De Oliveira, E., & Fonseca Da Silva, R. C. (2017). GERENCIAMENTO DE UMA REDE DE COMPUTADORES EM UM AMBIENTE CORPORATIVO UTILIZANDO O SOFTWARE ZABBIX, 14. Retrieved from https://semanaacademica.org.br/system/files/artigos/artigo_gerencia.pdf
+
+Zabbix. (2017). Zabbix Documentation 3.4. Retrieved, from https://www.zabbix.com/documentation/3.4/pt/manual/introduction/about
+
