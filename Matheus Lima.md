@@ -8,6 +8,12 @@ No Brasil, contamos com uma população de mais de 100 milhões de animais domé
  
 Atráves disso, o objetivo deste trabalho é montar um projeto automático que facilite e ajude a vida dos donos na hora de alimentar os cães e gatos, com diversas funções, sendo agendado atráves de horarios estimulados, ou de forma automatica com a falta do alimento/água no recipiente, funcionando de forma objetiva e clara, tudo controlado por um aplicativo, na palma de suas mãos.
 
+As empresas estão tomando um comportamento ambiental ativo, transformando uma postura passiva em oportunidades de négocios, segundo Lora (2000). Por isso, a ideia de criar um alimentador para cães e gatos utilizando Arduino UNO, captou bem a proposta, tanto por atender as necessidades da sociedade, oferecendo comodidade e praticidade para os donos e os animais, como também por apresentar um produto ecologicamente correto. Sendo assim, o produto poderá ser ofertado com um custo reduzido e também integra uma ideia sustentável visando o comprometimento ambiental. Para Lakatos e Marconi (1999) "A globalização e a tecnologia são processos objetivos e conjugados que caracterizam o atual período de evolução do sistema capitalista". Os avanços são importantes para manter a evolução do sistema, que gosta de ter serviços e produtos de qualidade.
+
+Entretanto, também há uma preocupação com impactos a médio e longo prazos, que podem atingir futuras gerações.
+
+Outra questão também tratada é a interação dos seres humanos com os computadores, que com o avança tecnológico e as soluções presentes, oferecem meios para auxiliar o trabalho e a interação do homem com o seu animal de estimação.
+
 ### Objetivos do trabalho
 
 (definir os objetivos)
@@ -22,6 +28,10 @@ Atráves disso, o objetivo deste trabalho é montar um projeto automático que f
 [**DINIZ, Aline. Residências brasileiras têm mais cachorros que crianças.**](https://www.otempo.com.br/cidades/resid%C3%AAncias-brasileiras-t%C3%AAm-mais-cachorros-que-crian%C3%A7as-1.1049471) 
 
 [**CAPRARA, Alessandra. Dados sobre a população de cães e gatos no Brasil. 2012.**](http://bichosempreguica.com.br/dados-sobre-a-populacao-de-caes-e-gatos-no-brasil-em-2012/) 
+[**LORA, E. Prevenção e controle da poluição no setor energético industrial e
+transporte.**]
+[**LAKATOS, E, M.; MARCONI, M. A. Sociologia geral. 7. ed. São Paulo: Atlas,
+1999.Acesso.**]
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -84,5 +94,7 @@ Entretanto, ela pode ser fácilmente encontrada até mesmo em nossas casas, quan
  
  [**Referencia**](https://www.dca.ufrn.br/~affonso/FTP/DCA447/trabalho1/trabalho1_9.pdf) 
 ALBUQUERQUE, Ana Claudia M. Lins de; SILVA, Diego Rodrigo C.. Introdução a Automação Industrial
+
+
       
   
