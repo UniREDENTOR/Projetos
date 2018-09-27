@@ -19,6 +19,8 @@ Porem poucas instituições de ensino abrangem tal metódo, por ser uma ferramen
 
 O objetivo da pesquisa é criar uma ferramenta para auxilio na educação fundamental de crianças com Necessidade Educacional Especial, de fácil acesso e de fácil adaptabilidade para instrutores de ensino.
 
+### Palavras-chaves : TICs, jogos educacionais, matemática, educação, especial
+
 ### Referências
 
 [**Referência Nº 1**](https://repositorio.ufsm.br/handle/1/12339):<br />
