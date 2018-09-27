@@ -28,8 +28,9 @@ Outra questão também tratada é a interação dos seres humanos com os computa
 [**DINIZ, Aline. Residências brasileiras têm mais cachorros que crianças.**](https://www.otempo.com.br/cidades/resid%C3%AAncias-brasileiras-t%C3%AAm-mais-cachorros-que-crian%C3%A7as-1.1049471) 
 
 [**CAPRARA, Alessandra. Dados sobre a população de cães e gatos no Brasil. 2012.**](http://bichosempreguica.com.br/dados-sobre-a-populacao-de-caes-e-gatos-no-brasil-em-2012/) 
-[**LORA, E. Prevenção e controle da poluição no setor energético industrial e
-transporte.**]
+
+[**LORA, E. Prevenção e controle da poluição no setor energético industrial e transporte.**]
+
 [**LAKATOS, E, M.; MARCONI, M. A. Sociologia geral. 7. ed. São Paulo: Atlas,
 1999.Acesso.**]
 
