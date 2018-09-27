@@ -6,7 +6,7 @@ A ideia inicial do projeto é mostrar a importância dos jogos digitais no apren
 
 ### Problemas que poderão ser resolvidos
 
-Com este projeto, será avaliada a forma na qual as crianças do ensino fundamental adquirem conhecimento através dos jogos digitais, tendo como desafio as distrações provocadas pelos mesmos e os problemas enfrentados no desenvolvimento de jogos específicos para esta área.
+Com este projeto, será avaliada a forma na qual as crianças do ensino fundamental adquirem conhecimento através dos jogos digitais, tendo como desafio as distrações provocadas pelos mesmos e mostrará os problemas enfrentados no desenvolvimento de jogos específicos para esta área.
 
 ### Recursos utilizados da ideia inicial
 
@@ -14,7 +14,7 @@ Serão utilizados artigos, pesquisas, reportagens, entre outros métodos.
 
 ### Observações
 
-O projeto será direcionado à questões relacionadas ao desenvolvimento de crianças do ensino fundamenta diante dos jogos digitais, como por exemplo a socialização no momento da atividade, e também estará discutindo o desempenho dos jogos no processo de aprendizagem das mesmas.
+O projeto será direcionado à pesquisas sobre questões relacionadas ao desenvolvimento de crianças do ensino fundamental diante dos jogos digitais, como por exemplo a socialização no momento da atividade, e também estará discutindo o desempenho dos jogos no processo de aprendizagem das mesmas.
 
 
 ### Próximos passos:
