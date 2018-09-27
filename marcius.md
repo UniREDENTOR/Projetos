@@ -1,34 +1,29 @@
 Marcius Ribeiro Vianna - 6º período
 
-Título, autores e afiliações
-Resumo (abstract)
-Introdução
-Resultados e Discussões
-Conclusão e referências
-Resumo
-(contextualização) (lacunas problemas questoes) (propósito) (metodologia) (resultados) (conclusão)
+## INTRODUÇÃO
 
-Introdução
-A ideia de criar esse aplicativo para comunicação, informação e conteúdo entre mulheres, abordando o tema violência contra as mulheres.
+O tema de violência da mulher tem ganhado destaque nas mídias no ano de 2018. Trazer para o ambiente de dispositivos móveis possibilita, de maneira mais dinâmica, a comunicação entre vítimas e especialistas na área.
 
-A proposta do aplicativo é poder ajudar com informações todas as mulheres que sofrem ou já sofreram com relacionamentos abusivos e
-violência contra a mulher.
+A mulher em situação de violência sente vergonha e humilhação. Dentre as modalidades de violência contra a mulher, a psicológica é a mais decorrente, pois é um tipo de violência que se acumula com o passar dos anos. Admitindo as vítimas um caráter a saúde psicológica da mulher por ser crônico e silencioso (FONSECA *et al*., 2012).
 
-O público alvo são as mulheres, principalmente mulheres adultas e idosas, que não têm acesso à informação e vieram, em grande parte,
-de lares onde a violência contra a mulher era dado como normal. É um público que não tem a tecnologia e a informação tão orgânicas
-no dia a dia, como o público mais jovem, o que faz deste o principal motivo da nossa proposta de criação do aplicativo.
-O aplicativo disponibilizará um feed com o conteúdo construído por psicólogos e advogados, visando nortear quem precisa de ajuda e
-informação sobre o tema.
+Dentre suas finalidades, o psicólogo intesvém para dar ao paciente controle e autonomia de sua vida. Podendo assim contribuir para a melhora de sua condição de saúde (JÚNIOR & SILVA, 2014).
 
-O aplicativo também terá salas de bate-papo pré-definidas contendo temas específicos, possibilitando a troca de informações
-entre as usuárias – o que acreditamos ser de extrema importância nesse contexto da violência, onde a vítima tende a se
-sentir oprimida e acaba não recebendo apoio e um direcionamento por não ter com quem se abrir.
+A conquista tecnológica, principalmente a de tecnologia da informação, trouxe para si práticas sociais como o contato interpessoal e aprendizado (SILVA, 2010).
 
-Pra garantir a anonimidade das usuárias, o aplicativo contará apenas com um campo de sobrenome fictício.
-O aplicativo conta com login e senha e será disponibilizado gratuitamente na plataforma android pela Google Play.
+O desenvolvimento de um aplicativo voltado para a interação social de especialistas e vítimas de violência contra a mulher traria um avanço ao combate contra essa prática. A vítima teria, assim, sua anonimidade garantida, como uma das propostas para o desenvolvimento do aplicativo, traria a praticidade de poder fazer o contato e interação em qualquer ambiente, a preservando-a do constrangimento de se locomover à um estabelecimento que trate desses casos e, financeiramente, mais viável, já que o aplicativo se encontraria gratuito.
 
 
-Metodologia
-Resultados e discussões
-Conclusão
-Referências
+## REFERÊNCIAS BIBLIOGRÁFICAS
+
+FONSECA, Denire Holanda da *et al*. **Violência doméstica contra a mulher: realidades e representações sociais**. Psicologia & Sociedade, 24(2), 307-314, 2012.
+
+SILVA, Siony da. **Redes Sociais Digitais e Educação. Revista Iluminart**. IFSP - Campus Sertãozinho
+. ISSN : 1984-8625. n 5, ago., 2010.
+
+JÚNIOR, Adauto Mendes Bernardes; SILVA, Diego Vinícius. **Desenvolvimento de um Aplicativo de Smartphones Para Contribuir no Processo Psicoterapêutico**. E-Locução, FAEX, edição 06, 2014.
+
+
+# APS 1
+O uso de dispositivos móveis na construção de atividades na educação à distância se faz necessária nas gerações mais novas. São apresentados os tipos de dispositivos móveis existentes junto ao perfil do aluno nos cursos à distância, refletindo a necessidade de novos formatos no ensino e aprendizagem (SABOIA *et al*., 2013).
+
+SABOIA, Juliana *et al*. **O Uso dos Dispositivos Móveis no Processo de Ensino e Aprendizagem no Meio Virtual**. REVISTA CESUCA VIRTUAL: CONHECIMENTO SEM FRONTEIRAS - ISSN 2318-4221, [S.l.], v. 1, n. 1, jul. 2013. ISSN 2318-4221. Disponível em: <http://ojs.cesuca.edu.br/index.php/cesucavirtual/article/view/424>. Acesso em: 10 set. 2018.
