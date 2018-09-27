@@ -31,8 +31,7 @@ Outra questão também tratada é a interação dos seres humanos com os computa
 
 [**LORA, E. Prevenção e controle da poluição no setor energético industrial e transporte.**]
 
-[**LAKATOS, E, M.; MARCONI, M. A. Sociologia geral. 7. ed. São Paulo: Atlas,
-1999.Acesso.**]
+[**LAKATOS, E, M.; MARCONI, M. A. Sociologia geral. 7. ed. São Paulo: Atlas, 1999.**]
 
 
 --------------------------------------------------------------------------------------------------------------------------------
