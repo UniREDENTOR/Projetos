@@ -40,7 +40,7 @@ A ideia de criar esse aplicativo para comunicação, entretenimento e conteúdo 
 
 O período de gestação na vida da mulher é cercado de mudanças e emoções. Segundo Silva e Silva (2009), gerar um filho tem destaque no ciclo vital da mulher que passa por intensas mudanças no corpo e em seu psicológico. A valorização da mulher como ser humano e cidadã é algo destacável (FREITAS et al., 2009). 
 
-Embora, existam diferentes formas de adquirir informações acerca da gravidez, segundo (Nascimento, 2009) transformações durante a gestação e diferentes vivências no parto gera preocupação em algumas mulheres. Essas reações está ligada ao medo das "dores" no próprio trabalho de parto, a vida dela e do seu bebê e o trauma de uma experiência mau sucedida (MELO, LIMA, 2000). Melo, Lima (2000) falam que a gravidez é  vista como um processo profundo de alterações fisicas, psíquicas e sociais. 
+Embora, existam diferentes formas de adquirir informações acerca da gravidez, segundo (Nascimento, 2009) transformações durante a gestação e diferentes vivências no parto gera preocupação em algumas mulheres. Essas reações está ligada ao medo das "dores" no próprio trabalho de parto, a vida dela e do seu bebê e o trauma de uma experiência mau sucedida (MELO; LIMA, 2000). Melo e Lima (2000) falam que a gravidez é  vista como um processo profundo de alterações fisicas, psíquicas e sociais. 
 
 O uso da tecnologia pelas mulheres gestantes gera acolhimento, segurança e preparação, além da contribuição do emponderamento durante a gravidez. O ato de perceber suas principais necessidades faz com que elas se adaptem e se tornem mais confiantes (NASCIMENTO, 2009). Além do resgate do seu emponderamento para assumir uma postura ativa no parto (NASCIMENTO, 2009, p. 18).
 
