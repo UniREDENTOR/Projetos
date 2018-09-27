@@ -12,9 +12,9 @@ A inteligência artificial está muito presente na atualidade, tanto para fins p
 
 
 ## Artigo APS1
-A Inteligência Artificial pode ser caracterizada de duas formas indiretas. Uma delas tendo como foco resolver problemas complexos e aproximar o conhecimento humano em maquinas. A segunda nomeada Game IA, possui relação direta com jogos eletrônicos, Kishimoto (2004).
-Com objetivo de demonstrar que ambas maneiras necessitam uma do avanço da outra, o artigo apresenta um estudo mais focado na segunda.
-No campo game IA foram estabelecidas algumas regras para que a experiência se tornasse mais divertida para o usuário, para Karlsoon (2005, apud Galdino, 2007) são: 
+A Inteligência Artificial pode ser caracterizada de duas maneiras indiretas. Uma delas tendo como foco solucionar problemas complexos e desenvolver máquinas que possua um onhecimento mais próximo ao humano. Já a segunda nomeada Game IA, está diretamente ligada com jogos eletrônicos, Kishimoto (2004).
+Com o foco em demonstrar que ambas maneiras necessitam uma da contribuição do avanço da outra para sempre estarem em evolução, o artigo apresenta um estudo mais focado na segunda.
+No campo Game IA foram estabelecidas algumas regras para que a experiência se tornasse mais atrativa para o usuário, para Karlsoon (2005, apud Galdino, 2007) são elas: 
 <li>Máquinas de Estado Finito.
 <li>Path-Finding.
 <li>Padrões de Movimentos.
@@ -27,4 +27,4 @@ Assim concluindo que a IA para jogos trabalha em conjunto com IA acadêmica, amb
 
 http://www.ceavi.udesc.br/arquivos/id_submenu/387/glauco_david_laicht.pdf
 http://www.karenreis.com.br/pdf/andre_kishimoto.pdf
-http://www.programadoresdejogos.com/trab_academicos/carlos_galdino.pdf
+https://pt.scribd.com/document/358720080/Inteligencia-Artificial-Aplicada-No-Desenvolvimento-de-Jogos-de-Computador
