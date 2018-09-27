@@ -50,25 +50,37 @@ Este artigo aborda a utilização das Tecnologias da Informação e Comunicaçã
 
  [**Referência**](http://www.pucrs.br/ciencias/viali/tic_literatura/artigos/objetos/CC_Melo_e_Silva.pdf)
  
-   # **  Introdução **
+   # **Introdução**
 
-Os jogos digitais educacionais vêm se tornando uma ferramenta poderosa no desenvolvimento de crianças, especificamente no ensino fundamental em disciplinas como por exemplo o português, a literatura, a matemática, entre outras. Porém, existem também algumas barreiras como a capacitação dos professores em relação à utilização das Tecnologias da Informação e Comunicação (TICs) e bem como o nível de distração dos alunos ao realizar uma determinada tarefa utilizando-se dessas ferramentas.
+Os jogos digitais educacionais vêm se tornando uma ferramenta poderosa no desenvolvimento de crianças, especificamente no ensino fundamental, em disciplinas como por exemplo o português, a literatura, a matemática, entre outras. Porém, existem também algumas barreiras como a capacitação dos professores em relação à utilização das Tecnologias da Informação e Comunicação (TICs), bem como o nível de distração dos alunos ao realizar uma determinada tarefa utilizando-se dessas ferramentas.
 
-Tendo como exemplo em disciplinas como a matemática, estudos já vêm sendo feitos, de acordo  Melo e Silva(2011) no contexto do ensino da matemática, a aprendizagem depende de ações que caracterizem experimentação, interpretação, visualização, indução, abstração, generalização e demonstração, as quais podem ser realizadas através da interação dos alunos com Tecnologias de Informação e Comunicação (TICs), como os jogos digitais e os objetos de aprendizagem, considerados poderosas ferramentas de apoio aos processos de ensino-aprendizagem. (p.4)
+Tendo como exemplo em disciplinas como a matemática, estudos já vêm sendo feitos, de acordo com Melo e Silva(2011) no contexto do ensino da matemática, a aprendizagem depende de ações que caracterizem experimentação, interpretação, visualização, indução, abstração, generalização e demonstração, as quais podem ser realizadas através da interação dos alunos com Tecnologias de Informação e Comunicação (TICs), como os jogos digitais e os objetos de aprendizagem, considerados poderosas ferramentas de apoio aos processos de ensino-aprendizagem. (p.4)
 
-Segundo Collins e Halverson (2010) em uma interessante abordagem, falam em nichos de aprendizagem, que permitem ao indivíduo construir o próprio conhecimento, algo como auto formação impulsionada pelos recursos tecnológicos.
+Deste modo, o aluno adquire o conhecimento em uma disciplina complexa ao mesmo tempo em que também se diverte, despertando um interesse maior por essa do que outras metodologias.
 
- Essa pesquisa terá como propósito a utilização de dados a afim de mostrar o que tem sido e ainda pode ser feito com a finalidade de contribuir para o desenvolvimento dos alunos com a utilização da tecnologia dentro do ambiente educacional. (p.18-27)
+Segundo Collins e Halverson (2010) em uma interessante abordagem, falam em nichos de aprendizagem, que permitem ao indivíduo construir o próprio conhecimento, algo como auto formação impulsionada pelos recursos tecnológicos. (p.2) 
 
-** Palavras-chaves **:  Jogos digitais, aprendizagem, alunos, professores
+Logo, o aluno poderá desenvolver suas capacidades em relação à diversas disciplinas e se tornar um *expert* na matéria a qual ele se identificar e o mesmo tempo, valorizar sua opinião, crença e motivações, convidando-se à pensar e refletir sobre o que fazem, sobre o que os jogos envolvem e sobre as habilidades necessárias. (Aguiar e Pisan Soares, 2018, p.8)
+
+ Essa pesquisa terá como propósito a utilização de dados a afim de mostrar o que tem sido e ainda pode ser feito para contribuir com o desenvolvimento de alunos do ensino fundamental em relação à utilização da tecnologia dentro do ambiente educacional. 
+
+**Palavras-chaves**:  Jogos digitais, aprendizagem, alunos, professores
 
 
-# ** Referências **
+# **Referências**
 
-** COLLINS, A.; HALVERSON, R. ** The second educational revolution: rethinking education in the age of technology. Journal of Computer Assisted Learning, v. 26, n. 1, p. 18-27, 2010. Disponível em: 
+**COLLINS, A.; HALVERSON, R.** The second educational revolution: rethinking education in the age of technology. Journal of Computer Assisted Learning, v. 26, n. 1, p. 18-27, 2010. Disponível em:
 
-[**Referência**](https://www.academia.edu/1031570/The_Second_Educational_Revolution_Rethinking_Education_in_the_Age_of_Technology?auto=download>) 
+[**Link do Artigo**](https://www.academia.edu/1031570/The_Second_Educational_Revolution_Rethinking_Education_in_the_Age_of_Technology?auto=download>)
 
-** MELO, D.; SILVA, K. ** Jogos Digitais e Objetos de Aprendizagem no Ensino da Matemática , v. 1, n. 1, p.4, 2011. Disponível em: 
- 
- [**Referência**](http://www.pucrs.br/ciencias/viali/tic_literatura/artigos/objetos/CC_Melo_e_Silva.pdf) 
+**MELO, D.; SILVA, K.** Jogos Digitais e Objetos de Aprendizagem no Ensino da Matemática,
+v. 1, n. 1, p.4, 2011. Disponível em:
+
+ [**Link do Artigo**](http://www.pucrs.br/ciencias/viali/tic_literatura/artigos/objetos/CC_Melo_e_Silva.pdf)
+
+**RAMOS, D. K.; ANASTÁCIO, B. S.** Habilidades cognitivas e o uso de 
+ jogos digitais,   
+v.22, n.2, p.9, 2018. Disponível em:
+
+[**Link do Artigo**](http://revistas.unisinos.br/index.php/educacao/article/download/edu.2018.222.11/60746214)
+
