@@ -50,7 +50,7 @@ Este artigo aborda a utilização das Tecnologias da Informação e Comunicaçã
 
  [**Referência**](http://www.pucrs.br/ciencias/viali/tic_literatura/artigos/objetos/CC_Melo_e_Silva.pdf)
  
-    # **Introdução**
+# **Introdução**
 
 Os jogos digitais educacionais vêm se tornando uma ferramenta poderosa no desenvolvimento de crianças, especificamente no ensino fundamental, em disciplinas como por exemplo o português, a literatura, a matemática, entre outras. Porém, existem também algumas barreiras como a capacitação dos professores em relação à utilização das Tecnologias da Informação e Comunicação (TICs), bem como o nível de distração dos alunos ao realizar uma determinada tarefa utilizando-se dessas ferramentas.
 
