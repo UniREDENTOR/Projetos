@@ -2,15 +2,13 @@ Marcius Ribeiro Vianna - 6º período
 
 ### INTRODUÇÃO
 
-O tema de violência da mulher tem ganhado destaque nas mídias no ano de 2018. Trazer para o ambiente de dispositivos móveis possibilitaria, de maneira mais dinâmica, a comunicação entre vítimas e especialistas na área.
+O tema de violência contra a mulher tem ganhado destaque nas mídias no ano de 2018. Trazer para o ambiente de dispositivos móveis possibilitaria, de maneira mais acessível e dinâmica, a comunicação entre vítimas e especialistas na área e informações importantes sobre o assunto.
 
 A mulher, em situação de violência, sente vergonha e humilhação. Dentre as modalidades de violência contra a mulher, a psicológica é a mais decorrente, pois é um tipo de violência que se acumula com o passar dos anos. Admitindo às vítimas um caráter de saúde psicológica por ser uma violência crônica e silenciosa (FONSECA *et al*., 2012).
 
-Dentre suas finalidades, o psicólogo intesvé para dar ao paciente o controle e autonomia de sua vida. Podendo, assim, contribuir para a melhora de sua condição de saúde (JÚNIOR & SILVA, 2014).
+Dentre suas finalidades, o psicólogo intervém para dar ao paciente o controle e autonomia de sua vida. Podendo, assim, contribuir para a melhora de sua condição de saúde (JÚNIOR & SILVA, 2014). A utilização de uma aplicação para dispositivos móveis uniria a esta intervenção com a mobilidade. Pois a conquista tecnológica, principalmente a de tecnologia da informação, trouxe para si práticas sociais como o contato interpessoal e o aprendizado (SILVA, 2010).
 
-A conquista tecnológica, principalmente a de tecnologia da informação, trouxe para si práticas sociais como o contato interpessoal e o aprendizado (SILVA, 2010).
-
-O desenvolvimento de um aplicativo voltado para a interação social entre especialistas e vítimas, com o tema de violência contra a mulher, traria um avanço ao combate contra esta prática. A vítima teria, assim, sua anonimidade garantida, como uma das propostas do desenvolvimento da aplicação, a praticidade de poder fazer o contato e interação em qualquer ambiente, preservando-a do constrangimento de se locomover à um estabelecimento que trate desses casos, e financeiramente mais viável, já que o aplicativo se disponibilizaria gratuito.
+O desenvolvimento de um aplicativo voltado para a informação e a interação social entre especialistas e vítimas, com o tema de violência contra a mulher, traria um avanço ao combate contra esta prática. A vítima teria, assim, sua anonimidade garantida, como uma das propostas do desenvolvimento da aplicação, a praticidade de poder fazer o contato e interação em qualquer ambiente, preservando-a do constrangimento de se locomover à um estabelecimento que trate desses casos, e financeiramente mais viável, já que o aplicativo se disponibilizaria gratuito.
   
   
 ### REFERÊNCIAS BIBLIOGRÁFICAS
