@@ -64,7 +64,7 @@ Logo, o aluno poderá desenvolver suas capacidades em relação à diversas disc
 
  Essa pesquisa terá como propósito a utilização de dados a afim de mostrar o que tem sido e ainda pode ser feito para contribuir com o desenvolvimento de alunos do ensino fundamental em relação à utilização de jogos digitais dentro do ambiente educacional, apresentando a importância dos mesmos na elaboração de aulas mais dinâmicas e produtivas. 
 
-**Palavras-chaves**:  Jogos digitais, aprendizagem, alunos, professores
+**Palavras-chaves**: Jogos digitais, aprendizagem, alunos, professores.
 
 
 # **Referências**
