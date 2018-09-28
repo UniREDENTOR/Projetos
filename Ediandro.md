@@ -1,12 +1,36 @@
-<h2>Introdução</h2>
-Banco de dados é base para toda e qualquer estrutura de um sistema, seja para pequenos e grandes projetos. Com isso é constatado a maior necessidade de segurança e organização das informações alocadas nele. O banco de dados em cloud vem transformando o cenário atual, garantindo á quem compra a ideia para seu projeto, várias melhorias relacionado a flexibilidade, otimização de custos, backup direto na nuvem, espaço físico próprio, entre outros. 
+<h2>Introdução (V1)</h2>
+
+Na atualidade o termo Computação em nuvem, e o tema que todos os envolvidos na área de Tecnologia de Informação, estão vendo como necessidade principal para o seu negócio, que tem como base o uso sob demanda, você paga oque usa. [Buyya et al. 2009]
+Computação em nuvem pretende alcançar nível global, prover todo tipo de serviço remoto a toda massa do mundo, desde usuários primários aos mais avançados.
+
+O modelo de *Cloud Computing* tem como objetivo ser mais flexível ao usuário, oferecendo todos os tipos necessários de configurações e recursos sem que sejam feitas mudanças drásticas no ambiente físico e qualquer esforço humano. (National Institute of Standards and Technology, 2009)
+
+A Microsoft oferece um produto chamado Azure, que fornece um sistema de banco de dados relacional em nuvem, eles oferecem uma grande aceitação nesse ramo para a empresa que usa SQL Server, e quer migrar seu banco relacional para CLOUD, sem perder os relacionamentos com as aplicações.
+
+O objetivo principal é de maximizar e flexibilizar todo e qualquer tipo de recurso computacional, tendo em vista a grande variedade de serviços disponíveis pelos provedores que fornecem esse tipo de serviço. 
+
+<h3>Esse projeto tem como objetivos específicos:</h3>
+
+•	Diminuir custos;
+
+•	Backup simultâneo;
+
+•	Serviços sempre disponíveis e sobre demanda.
 
 
-<h2>Objetivos Gerais</h2>
-Pesquisa baseada em dados reais entre bancos de dados locais e banco de dados em nuvem, mostrando os benefícios de optar por ter seu banco CLOUD.
 
-Links:
 
+
+[**Referências**]
+ https://siaiap32.univali.br/seer/index.php/acotb/article/view/6396/3625
+https://pt.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology
+https://www.ecommercebrasil.com.br/artigos/armazenar-banco-de-dados-na-nuvem/
+https://azure.microsoft.com/pt-br/services/sql-database/
+https://www.vivaolinux.com.br/artigo/Banco-de-dados-e-Cloud-Computing-melhor-opcao
+http://www.fatecbt.edu.br/seer/index.php/tl/article/viewFile/305/215
+https://www.tiespecialistas.com.br/banco-de-dados-na-nuvem-por-onde-comecar/
+http://200.17.137.109:8081/novobsi/Members/josino/fundamentos-de-banco-de-dados/2012.1/Gerenciamento_Dados_Nuvem.pdf
+https://oglobo.globo.com/sociedade/tecnologia/revelacoes-de-snowden-poem-formula-de-seguranca-digital-em-xeque-10050988
 http://www.teiko.com.br/pt/blog/banco-de-dados-na-nuvem-quais-sao-os-beneficios-
 https://www.ecommercebrasil.com.br/artigos/armazenar-banco-de-dados-na-nuvem/
 http://www.administradores.com.br/noticias/negocios/porque-as-empresas-de-sucesso-armazenam-seus-bancos-de-dados-na-nuvem/123846/
