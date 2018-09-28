@@ -2,20 +2,20 @@
 
 
 ### Introdução
- Utilizar tecnologias de informação e comunicação (TICs) em salas de aula hoje em dia se tornou uma ferramenta util para despertar o desenvolvimento de raciocinio lógico em crianças do ensino fundamental e ensino médio.
- 
- TICs podem ser usadas como ferramentas de apoio para desenvolvimento das habilidades intelectuais de alunos com Necessidade Educacional Especial (NEE). Segundo Marisa Silveira Moraes dos Santos (2017, P.4)
- 
- Conforme as tecnologias estão evoluindo as necessidades de ensino em salas de aula também estão, acessibilidade tem sido um tema muito abrangido nesse campo de estudo.
- 
- Ou seja, de modo a contribuir para a efetividade do ensino e da aprendizagem, faz-se necessário que os professores se mantenham atualizados, buscando evidenciar a busca pelo conhecimento por parte dos alunos a partir de objetos de interesse dos mesmos. Segundo Frederico Martins Motta, Camila Tenório de Oliveira e Rafael Alves dos Santos (2018, P.3)
- 
- Jogos digitais tem ganhado cada vez mais destaque nos dias atuais e na cultura em que vivemos, então é fácil de ter acesso as esse tipo de conteudo e sendo um motivador para jovens.
- 
- Os jogos e brincadeiras de matemática desperta no educando um bom nível desconhecimento, sendo este de grande favorecimento para uma educação de qualidade. Piaget e Vygotsky foram um dos principais teóricos que contribuíram para o jogo se tornar uma proposta metodológica com base científica para a educação matemática. Embora com algumas contradições, eles defendem a participação constante do aluno dentro do processo de aprendizagem. A principal questão é que separa as concepções de aprendizagem e
-desenvolvimento com os meios cognitivos atuais. Segundo Adailson Franscisco Galeno da Silva (2017 . P 11)
 
-Porem poucas instituições de ensino abrangem tal metódo, por ser uma ferramente relativamente nova no campo de estudo e alguns instrutores de ensino podem ter dificuldades em se adaptar em tal metódo.
+Jogos digitais tem evoluido cada vez mais no mercado e em nossa cultura, ganhando até destaque na mídia, porem alguns jogos podem ser usados como teconologia para auxiliar no ensino nas escolas. Tais tecnologias tem sido grandes auxiliares no ensino de crianças com certas dificuldades de ensino.
+
+Tecnologias de informação e comunicação (TICs) podem ser usadas como ferramentas de apoio para alunos com Necessidade Educacional Especial (NEE). Segundo Marisa Silveira Moraes dos Santos (2017, P.4)
+ 
+Utilizar TICs em salas de aula hoje em dia se tornou uma ferramenta util para despertar o desenvolvimento de raciocinio lógico em crianças do ensino fundamental e ensino médio. Crianças com necesseciades especiais tendem ter mais dificuldade para aprender se não tiverem o devido cuidado e supervisão de seus instrutores, o metodo de utilizar as ferramentas TICs tem ajudado no desenvolvimentos de suas habilidades intelectuais.
+ 
+Ou seja, de modo a contribuir para a efetividade do ensino e da aprendizagem, faz-se necessário que os professores se mantenham atualizados. Segundo Frederico Martins Motta, Camila Tenório de Oliveira e Rafael Alves dos Santos (2018, P.3)
+ 
+Conforme as tecnologias estão evoluindo as necessidades de ensino em salas de aula também estão, acessibilidade devido as necessidades especiais de alunos tem sido um tema muito abrangido nesse campo de estudo.
+  
+Jogos digitais tem se tornado uma ferrmenta motivadora para a educação lúdica do aluno . Segundo Adailson Franscisco Galeno da Silva (2017 . P 11)
+
+Jogos digitais tem ganhado cada vez mais destaque nos dias atuais e na cultura em que vivemos, então é fácil conseguir acesso as esse tipo de conteudo, sendo um motivador para jovens. Porem poucas instituições de ensino abrangem tal metódo, por ser uma ferramente relativamente nova no campo de estudo e alguns instrutores de ensino podem ter dificuldades em se adaptar em tal metódo.
 
 O objetivo da pesquisa é criar uma ferramenta para auxilio na educação fundamental de crianças com Necessidade Educacional Especial, de fácil acesso e de fácil adaptabilidade para instrutores de ensino.
 
