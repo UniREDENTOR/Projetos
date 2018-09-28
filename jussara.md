@@ -38,5 +38,5 @@ Almeida, Elga. (2011) Maus Tratos contra Animais Disponíveis em:(http://www.uni
 Blog Natividade FM.(2016) Prefeitura de Itaperuna lançará projeto de controle de população de cães e gatos disponível em:(http://natividadefm.com.br/2016/04/15/prefeitura-de-itaperuna-lancara-projeto-de-controle-de-populacao-de-caes-e-gatos/)
 Maia, kariny. (2018) Parceria com a SUIPA vai viabilizar criação de canil em Miracema Disponível em:(http://www.sfnoticias.com.br/parceria-com-a-suipa-vai-viabilizar-criacao-de-canil-em-miracema)
 
-Muraro, Celia. (2014) MAUS TRATOS DE CAES E GATOS EM AMBIENTE URBANO, DEFESA E PROTEÇÃO AOS ANIMAIS disponível em: (https://www.jurisway.org.br/monografias/monografia.asp?id_dh=12654)
+Muraro,Celia. (2014) MAUS TRATOS DE CAES E GATOS EM AMBIENTE URBANO, DEFESA E PROTEÇÃO AOS ANIMAIS disponível em: (https://www.jurisway.org.br/monografias/monografia.asp?id_dh=12654)
 
