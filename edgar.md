@@ -15,20 +15,6 @@
 (resultados)
 (conclusão)
 
-### V1
-
-• Escolha um tema, assunto ou área e defina um problema adequado e realizável: Tecnologia como apoio nas decisões sobre condutas da mulher durante a gestação, no parto e no nascimento do bebê. ok
-
-• Apresente o campo de pesquisa. Mostre o que tem sido feito na área através de referências científicas (use citação direta ou indireta). (MATTAR, 2017): O uso da tecnologia pelas mulheres gestantes ok
-
-• Na sua introdução, mencione também o que não tem sido feito. Perguntas não respondidas e/ou Limitações não resolvidas. (MATTAR, 2017):
-
-• Mostre o estado da arte através de pesquisas recentes (atenção para a data dos artigos que citar). Use no mínimo três artigos como referência.
-
-• Finalize a introdução falando sobre o que você vai resolver e a importância disso.
-
-• Organize a introdução com o objetivo de despertar o interesse para o restante do seu trabalho. Escreva o essencial (seja conciso).  Atenção para outras características como: clareza, exatidão e sequência lógica. (PEREIRA, 2012) 
-
 A ideia de criar esse aplicativo para comunicação, entretenimento e conteúdo entre mães e futuras mães.
 (o que tem sido feito ?)
 (o que não tem sido feito?)
@@ -40,7 +26,7 @@ A ideia de criar esse aplicativo para comunicação, entretenimento e conteúdo 
 
 O período de gestação na vida da mulher é cercado de mudanças e emoções. Segundo Silva e Silva (2009), gerar um filho tem destaque no ciclo vital da mulher que passa por intensas mudanças no corpo e em seu psicológico. A valorização da mulher como ser humano e cidadã é algo destacável (FREITAS et al., 2009). 
 
-Embora, existam diferentes formas de adquirir informações acerca da gravidez, segundo (Nascimento, 2009) transformações durante a gestação e diferentes vivências no parto gera preocupação em algumas mulheres. Essas reações está ligada ao medo das "dores" no próprio trabalho de parto, a vida dela e do seu bebê e o trauma de uma experiência mau sucedida (MELO; LIMA, 2000). Melo e Lima (2000) falam que a gravidez é  vista como um processo profundo de alterações fisicas, psíquicas e sociais. 
+Embora, existam diferentes formas de adquirir informações acerca da gravidez, segundo (Nascimento, 2009) transformações durante a gestação e diferentes vivências no parto gera preocupação em algumas mulheres. Essas reações estão ligadas ao medo das "dores" no próprio trabalho de parto, a vida dela e do seu bebê e o trauma de uma experiência mau sucedida (MELO; LIMA, 2000). Melo e Lima (2000) falam que a gravidez é  vista como um processo profundo de alterações fisicas, psíquicas e sociais. 
 
 O uso da tecnologia pelas mulheres gestantes gera acolhimento, segurança e preparação, além da contribuição do emponderamento durante a gravidez. O ato de perceber suas principais necessidades faz com que elas se adaptem e se tornem mais confiantes (NASCIMENTO, 2009). Além do resgate do seu emponderamento para assumir uma postura ativa no parto (NASCIMENTO, 2009, p. 18).
 
