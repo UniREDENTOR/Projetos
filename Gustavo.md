@@ -2,10 +2,11 @@
 
 ## Introdução
 
-<p>O mundo é movido pelo conhecimento adquirido ao longo dos anos, e existem inúmeras formas de conhecimento para que o ser humano possa adquirir tal feito, e uma das mais conhecidas é através da leitura. Seguindo esse princípio, o surgimento da internet, trouxe consigo as aplicações web, que se tornaram parte de todo esse processo de aprendizado, artigos científicos que antes eram lidos apenas fisicamente, hoje já são integrados ao meio eletrônico.</p>
+<p>O mundo é movido pelo conhecimento adquirido ao longo dos anos. Existem inúmeras formas de conhecimento para que o ser humano possa adquirir tal feito, uma das mais conhecidas é através da leitura. Seguindo esse princípio, o surgimento da internet, trouxe consigo as aplicações web, que se tornaram parte de todo esse processo de aprendizado, artigos científicos que antes eram lidos apenas fisicamente, hoje já são integrados ao meio eletrônico.</p>
 
-<p>De acordo com Rodrigues (2017), “O desenvolvimento crescente de tecnologias traz a necessidade de realizar tarefas de maneira cada vez mais simples e informatizada, ou seja, de modo que seja exigido o menor esforço possível por parte das pessoas.”
-Nesse sentido, um dos maiores problemas para a publicação de um artigo científico, é a burocratização do processo de se passar por uma banca para ser avaliado e somente se aprovado, ser compartilhado na web. Para resolver isto, a principal funcionalidade da aplicação web deste projeto, é a possibilidade de publicar um artigo científico sem a necessidade de passar por avaliação de uma banca, e que possa ser feito por qualquer autor. Sejam eles autores da área de estudo ou não. </p>
+<p>De acordo com Rodrigues (2017), “O desenvolvimento crescente de tecnologias traz a necessidade de realizar tarefas de maneira cada vez mais simples e informatizada, ou seja, de modo que seja exigido o menor esforço possível por parte das pessoas.”</p>
+
+<p>Nesse sentido, um dos maiores problemas para a publicação de um artigo científico, é a burocratização do processo de se passar por uma banca para ser avaliado e somente se aprovado, ser compartilhado na web. Para resolver isto, a principal funcionalidade da aplicação web deste projeto, é a possibilidade de publicar um artigo científico sem a necessidade de passar por avaliação de uma banca, e que possa ser feito por qualquer autor. Sejam eles autores da área de estudo ou não. </p>
 
 <p>Segundo Rodrigues (2017), citado por Custodio (2016), “Levando em consideração aplicações web já existentes, como a do (autor), desenvolveu o protótipo de uma aplicação web com o objetivo de automatizar a relação entre orientadores e estudantes na fase de realização do trabalho de conclusão de curso. O sistema foi implementado utilizando as linguagens JSP, CSS e Javascript e permite que os docentes publiquem propostas de temas para que os discentes possam escolher o de maior interesse.” </p>
 
