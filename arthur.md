@@ -1,19 +1,22 @@
-## **A IMPORTÂNCIA DOS JOGOS DIGITAIS EDUCACIONAIS NO ENSINO FUNDAMENTAL**
 
-### **Resumo**
+<h3 align="center"> 
+  <b><br>A IMPORTÂNCIA DOS JOGOS DIGITAIS EDUCACIONAIS NO</br>
+    <br>ENSINO FUNDAMENTAL</b></br>
+    
+#### **Resumo**
 
-### **Palavras-chave**
+#### **Palavras-chave:**
 
 <br>
 
-### **Abstract**
+#### **Abstract**
 
 
-### **Keywords:**
+#### **Keywords:**
 
 </br>
 
-## **INTRODUÇÃO** 
+#### **INTRODUÇÃO** 
 
 <p>Os jogos digitais educacionais vêm se tornando uma ferramenta poderosa no desenvolvimento de alunos, especificamente no ensino fundamental, em disciplinas como por exemplo o português, a literatura, a matemática, entre outras. Porém, existem algumas barreiras como a capacitação dos professores em relação à utilização das Tecnologias da Informação e Comunicação (TICs), assim como, o nível de distração dos alunos ao realizar uma determinada tarefa utilizando-se dessas ferramentas.</p>
 
@@ -32,10 +35,10 @@ Desse modo, o presente trabalho tem como objetivo geral investigar a atuação d
 Os jogos digitais podem oferecer novas possibilidades de aprendizagem através de atividades que promovem novas alternativas de inferir conhecimentos dentro do processo de ensino-aprendizagem. Sendo assim, conforme explica Fiscarelli (2018, p.1), os jogos teriam a função de estender o tempo de contato com os conteúdos curriculares e promover a realização de exercícios de maneira mais agradável. 
 
 
-## **METODOLOGIA** 
+#### **METODOLOGIA** 
 Este trabalho tem, assim, por metodologia, a pesquisa qualitativa, baseada nas contribuições de Silva e Costa (2017), Vandeventer (2002), Dos Santos (2018) e Fiscarelli (2018).
 
-## **REFERÊNCIAS** 
+#### **REFERÊNCIAS** 
 DOS SANTOS, M. **1ª Olimpíada digital de matemática no Brasil usa jogos para estimular o aprendizado.** 4 out. 2018. Disponível em: <<https://epocanegocios.globo.com/Tecnologia/noticia/2018/10/1-olimpiada-digital-de-matematica-no-brasil-usa-jogos-para-estimular-o-aprendizado.html>>. Acesso em: 7 out. 2018.
 
 FISCARELLI, S. **Já usou jogos com seus alunos? Eles podem ser muito úteis para a aprendizagem!** 11 out. 2018. Disponível em: <<https://novaescola.org.br/conteudo/12717/ja-usou-jogos-com-seus-alunos-elespodem-ser-muito-uteis-para-a-aprendizagem>>. Acesso em: 7 out. 2018.
