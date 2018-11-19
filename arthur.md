@@ -22,9 +22,9 @@
 
 <p>Tendo como exemplo as disciplinas como a matemática, estudos já vêm sendo feitos, de acordo com Silva e Costa (2017), no contexto do ensino da matemática, a aprendizagem depende de ações que caracterizam experimentação, interpretação, visualização, indução, abstração, generalização e demonstração, as quais podem ser realizadas através da interação dos alunos com Tecnologias de Informação e Comunicação (TICs), como os jogos digitais e os objetos de aprendizagem considerados poderosas ferramentas de apoio aos processos de ensino-aprendizagem.</p>
 
-Desse modo, como afirma Dos Santos (2018):
+Desse modo, como afirma Dos Santos (2018, p.1):
 
-> Para muitos estudantes aprender matemática pode ser algo difícil e tedioso. Para solucionar esse problema, a startup israelense Matific promove, pela primeira vez no Brasil, uma olimpíada digital de matemática. 260 mil alunos de 5 a 11 anos de idade de escolas públicas e privadas de todo o país terão que resolver problemas matemáticos a partir de uma plataforma digital. (DOS SANTOS, 2018, p.1)
+> Para muitos estudantes aprender matemática pode ser algo difícil e tedioso. Para solucionar esse problema, a startup israelense Matific promove, pela primeira vez no Brasil, uma olimpíada digital de matemática. 260 mil alunos de 5 a 11 anos de idade de escolas públicas e privadas de todo o país terão que resolver problemas matemáticos a partir de uma plataforma digital.
 
 Sendo assim, a autora Vandeventer (2002, p.15), afirma que o aluno poderá desenvolver suas capacidades em relação à diversas matérias e se tornar um expert na disciplina na qual ele possa se identificar, ao passo que, consiga valorizar sua opinião, crença e motivações, convidando-o a pensar e refletir sobre o seu envolvimento com os jogos e suas habilidades necessárias para cumprir a tarefa proposta pelo educador. 
 
