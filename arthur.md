@@ -34,10 +34,10 @@ src="http://docplayer.com.br/docs-images/66/56372741/images/1-0.jpg">
 
 ---
 
-¹ Centro Universitário Redentor, Sistemas de Informação, Natividade-RJ, arthurborn1991@gmail.com 
+<p>¹ Centro Universitário Redentor, Sistemas de Informação, Natividade-RJ, arthurborn1991@gmail.com 
 
 ---
-<div align="left">ISSN: XXXX-XXXX REINPEC &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPáginas 1 de 2
+<div align="left">ISSN: XXXX-XXXX REINPEC &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Páginas 1 de 2
 
 
 ---
@@ -58,12 +58,29 @@ depende de ações que caracterizam experimentação, interpretação, visualiza
 
 ---
 
-<div align="left">ISSN: XXXX-XXXX REINPEC &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPáginas 2 de 3
+<div align="left">ISSN: XXXX-XXXX REINPEC &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Páginas 2 de 3
 
 ---
 
 #### **METODOLOGIA** 
-<p>&nbsp &nbsp&nbsp&nbsp&nbspEste trabalho tem, assim, por metodologia, a pesquisa qualitativa, baseada nas contribuições de Silva e Costa (2017), Vandeventer (2002), Dos Santos (2018) e Fiscarelli (2018).</br>
+<p>&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspEste projeto tem assim, por metodologia, a pesquisa qualitativa, baseada nas contribuições de Silva e Costa (2017), VanDeventer (2002), Dos Santos (2018), e Fiscarelli (2018), visando a compreensão da influência e aplicação dos jogos digitais educacionais dentro do ensino fundamental.</br>
+
+<p>&nbsp&nbsp&nbsp&nbspSendo assim, foi utilizado como forma de exemplificação o site Escola Games:
+
+
+
+>ESCOLA GAMES é um site gratuito de jogos educativos para crianças a partir de 5 anos e todos os jogos são desenvolvidos com acompanhamento pedagógico para que elas aprendam brincando. Na versão atual do site há mais de 90 atividades cujos temas se relacionam à língua portuguesa, à matemática, à geografia, à história, à ciências, ao inglês e ao meio ambiente. (ESCOLA GAMES, 2018).
+
+
+<p align="center">
+<img  width= "70%" src="http://drive.google.com/uc?export=view&id=1vz2vBIPQRNv54_nJprbO4OlF-dls0-MY"><br> <b>Figura 01 – Tela Inicial do Site Escola Games</b><br> Fonte: Adaptado de Escola Games (2018)<br>
+
+---
+
+<div align="left">ISSN: XXXX-XXXX REINPEC &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Páginas 3 de 4
+
+---
+
 
 #### **REFERÊNCIAS** 
 DOS SANTOS, M. **1ª Olimpíada digital de matemática no Brasil usa jogos para estimular o aprendizado.** 4 out. 2018. Disponível em: <<https://epocanegocios.globo.com/Tecnologia/noticia/2018/10/1-olimpiada-digital-de-matematica-no-brasil-usa-jogos-para-estimular-o-aprendizado.html>>. Acesso em: 7 out. 2018.
@@ -75,7 +92,9 @@ SILVA, K.; COSTA, M. VI Congresso Brasileiro de Informática na Educação (CBIE
 VANDENVENTER, Stephanie. SIMULATION & GAMING. **Expert behavior in children’s**.
 video game play, v. 33, n. 1, p. 28-48, mar. 2002.
 
+VASCONCELOS, P. **O que é Gamificação? Conheça a ciência que traz os jogos para o cotidiano**. 19 jul. 2016. Disponível em: <<https://novaescola.org.br/conteudo/12717/ja-usou-jogos-com-seus-alunos-elespodem-ser-muito-uteis-para-a-aprendizagem>>. Acesso em: 13 out. 2018.
+
 ---
-<div align="left">ISSN: XXXX-XXXX REINPEC &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPáginas 3 de 3
+<div align="left">ISSN: XXXX-XXXX REINPEC &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPáginas 4 de 4
 
 ---
