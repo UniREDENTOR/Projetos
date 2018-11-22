@@ -11,7 +11,7 @@ src="http://docplayer.com.br/docs-images/66/56372741/images/1-0.jpg">
 
 <p align="right">
 <br>Arthur Xavier¹</br>
-<br>Acadêmico de Sistemas de Informação do Centro Universitário Redentor, Itaperuna-RJ</br>
+Acadêmico de Sistemas de Informação do Centro Universitário Redentor, Itaperuna-RJ
     
 #### **Resumo**
 
@@ -95,6 +95,6 @@ video game play, v. 33, n. 1, p. 28-48, mar. 2002.
 VASCONCELOS, P. **O que é Gamificação? Conheça a ciência que traz os jogos para o cotidiano**. 19 jul. 2016. Disponível em: <<https://novaescola.org.br/conteudo/12717/ja-usou-jogos-com-seus-alunos-elespodem-ser-muito-uteis-para-a-aprendizagem>>. Acesso em: 13 out. 2018.
 
 ---
-<div align="left">ISSN: XXXX-XXXX REINPEC &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspPáginas 4 de 4
+<div align="left">ISSN: XXXX-XXXX REINPEC &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Páginas 4 de 4
 
 ---
