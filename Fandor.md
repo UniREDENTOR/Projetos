@@ -17,17 +17,16 @@ Foi concluído que a informatização do conteudo de forma lúdica, fez com que 
 O Artigo busca mostrar a utilização de uma *Ferramenta de Autoria*, para o desenvolvimento de um *Jogo Sério*, voltado para a educação e utilizando de forma lúdica o gênero *Role Playing Game* (Rpg).
 Os jogos do gênero *Rpg* têm a vantagem de desenvolver habilidades como atenção, concentração, criatividade e socialização. Segundo Pessini A, Kemezinski A e Hounsell M da Silva (2015).
 No artigo é utilizado uma *Ferramenta de Autoria* denominada *RPG4ALL*, ela foi construida a partir de uma experiência de um docente em 2003 com o uso de uma mesa de *Rpg* e sua premissa é dar suporte aos *Rpgs* utilizados na educação.
-A ferramenta *RPG4ALL* permite que o docente tenha funcionalidades para especificar os elementos do jogo, agregar conteúdo educacional e guiar a aparendizagem a partir da geração de informações que auxiliam o docente no processo de avaliação.Pessini A, Kemezinski A e Hounsell M da Silva (2015).
-Foi concluido que a utilização de *Jogos Sérios* na área de educação 
-
+A ferramenta *RPG4ALL* permite que o docente tenha funcionalidades para especificar os elementos do jogo, agregar conteúdo educacional e guiar a aparendizagem a partir da geração de informações que auxiliam o docente no processo de avaliação. Pessini A, Kemezinski A e Hounsell M da Silva (2015).
+Foi concluido que a utilização de *Jogos Sérios* na área de educação é fundamentalmente necessário o uso de motivadores lúdicos que favorecem o ensino-aprendizagem. Pessini A, Kemezinski A e Hounsell M da Silva (2015).
 
 
 Escrever parágrafo do artigo 3 aqui. Usar citação direta ou indireta.
 
 Referência Bibliográfica
 
-Pizzol C, Zanatta A.Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação - SBIE), 2001 vol: 1 (1) pp: 239-246
+Pizzol C, Zanatta A. O RPG como técnica na construção de software educacional: A Revolução Farroupilha, Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação - SBIE), 2001 vol: 1 (1) pp: 239-246
 
-Citar Artigo 2
+Pessini A, Kemezinski A, Hounsell M da Silva. Uma Ferramenta de Autoria para desenvolvimento de jogos Sérios do Gênero RPG, Anais do Computer on the Beach, (2015) pp: 071-080
 
 Citar Artigo 3
