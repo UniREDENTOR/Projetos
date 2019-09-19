@@ -17,7 +17,8 @@ O intuito do artigo é mostrar que sim, é possível criar um sistema de automa�
 
 ### Um Sistema de Automação Residencial para auxiliar Portadores de Necessidades Especiais
 
-O artigo trata-se de um projeto  que será desenvolvido para o auxilio de pessoas portadoras de alguma deficiência, mas especificamente para pessoas com deficiências visual, auditiva e com problemas de locomoção .Segundo (Eduardo et al., [s.d.]) tem como objetivo facilitar e melhorar a vida dessas pessoas, trazendo segurança e facilidades ao controlar os dispositivos. A aplicação conta com um aplicativo mobile para fazer toda a comunicação com o módulo de arduino. Um ponto interessante é a utilização de comandos por voz, trazendo mais conforto ao usuário, que mesmo podendo possuir uma deficiência visual, ele conseguirá abrir um portão apenas pelo comando de voz. (Finalizar...)
+
+O artigo trata-se de um projeto  que será desenvolvido para o auxilio de pessoas portadoras de alguma deficiência, mas especificamente para pessoas com deficiências visual, auditiva e com problemas de locomoção .Segundo (Eduardo et al., [s.d.]) tem como objetivo facilitar e melhorar a vida dessas pessoas, trazendo segurança e facilidades ao controlar os dispositivos. A aplicação conta com um aplicativo mobile e um website hospedado localmente para fazer toda a comunicação com o módulo de arduino. Um ponto interessante é a utilização de comandos por voz, trazendo mais conforto ao usuário, que mesmo podendo possuir uma deficiência visual, ele conseguirá abrir um portão apenas utilizando o comando de voz. Os resultados foram obtidos através de testes utilizando uma pequena maquete, fazendo a ativação de luzes e abertura de um portão. De acordo com  (Eduardo et al., [s.d.] os resultados foram positivos, podendo confirmar o sucesso das funcionalidades utilizando o comando de voz e os botões.
 
 # Referência Bibliográfica
 
