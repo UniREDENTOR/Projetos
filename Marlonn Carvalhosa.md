@@ -1,15 +1,23 @@
-## APS 1
+# APS 1
 
-Escrever parágrafo do artigo 1 aqui. Usar citação direta ou indireta.
+## Resumo 1
 
-Escrever parágrafo do artigo 2 aqui. Usar citação direta ou indireta.
+#### Sistema de Automação residencial com dispositivos modulares
 
-Escrever parágrafo do artigo 3 aqui. Usar citação direta ou indireta.
+O conceito de domótica vem tomando espaço no decorrer do tempo com o crescimento da tecnologia, nos dias atuais a implementação desse conceito ficou muito mais prático e com o custo viável. (L. MARQUES, 2018)⁠ “A evolução tecnológica tem levado à modernizações que geram conforto, comodidade, segurança e economia nas residências através da automação residencial”. Esse artigo mostra o desenvolvimento de um sistema de automação utilizando bancos de dados na nuvem e para fazer a comunicação com a placa, um aplicativo móvel através de uma rede wifi, que também permite a visualização dos dados de todos os dispositivos.
+O projeto foi desenvolvido através da metodologia de protótipo. De acordo com (L. MARQUES, 2018)⁠ foi criado um protótipo do módulo switch para que se fosse iniciado os testes, após os teste, será feito o desenvolvimento da aplicação móvel. Para a criação desse projeto, foram utilizados além da aplicação móvel, microcontroladores e módulos para efetuar a comunicação. Após a conclusão e teste, foram validadas as suas funcionalidades básicas e através de testes com integração entre os componentes foi mostrado que todas as funcionalidades foram alcançadas.
 
-## Referência Bibliográfica
+## Resumo 2
 
-Citar Artigo 1
 
-Citar Artigo 2
+#### Automação residencial utilizando a plataforma de hardware livre Arduino.
 
-Citar Artigo 3
+O intuito do artigo é mostrar que sim, é possível criar um sistema de automação residencial com baixo custo e utilizando de tecnologias abertas (*Open Source*). Segundo (W. FREITAS, 2016)⁠ já existem muitas coisa no mundo da automação, sendo que a maior parte usada ainda é inacessível pra a grande maioria. O projeto foi desenvolvido com a utilização de uma placa arduíno juntamente fazendo a utilização de módulos para o controle das luzes e acionamento do portão. Para efetuar os comandos e se comunicar, foi desenvolvido uma aplicação móvel, que permite controlar e visualizar os dados das respostas obtidas pelos módulos, tudo isso conectado remotamente através do bluetooth. Para reproduzir o projeto, foi criado uma maquete em pequena escala para que fosse exibido o funcionamento.
+
+
+
+# Referência Bibliográfica
+
+RN, Natal; AUGUSTO, Leonardo; MARQUES, De Aquino. Sistema de Automação residencial com dispositivos modulares. 2018.
+
+FREITAS, Wglielber Sousa. Automação residencial utilizando a plataforma de hardware livre Arduino Automação residencial utilizando a plataforma de hardware livre Arduino. 2016.
